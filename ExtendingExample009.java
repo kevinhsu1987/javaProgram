@@ -67,6 +67,6 @@ class ExtendingExample009
         {
             System.out.println("Main thread interrupted");
         }
-        //System.out.println("Main thread's run is over" );
+        System.out.println("Main thread's run is over" );
     }
 }
